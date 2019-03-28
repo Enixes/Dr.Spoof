@@ -1,5 +1,5 @@
 # Dr.Spoof
-A tool to detect Spoofing attacks 
+A tool to detect and stop ARP Spoofing attacks in your local network
 ## How to run
 ### Step 1:
 Open terminal and run
